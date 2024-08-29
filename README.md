@@ -21,5 +21,5 @@
 </a> &nbsp;&nbsp;
 <p>
 
-[![GitHub paolis28](https://img.shields.io/github/followers/deepshikhayadav?label=follow&style=social&logoColor=black)](https://github.com/paolis28)
+[![GitHub paolis28](https://img.shields.io/github/followers/deepshikhayadav?label=follow&style=social&logoColor=black)]([https://github.com/paolis28](https://github.com/paolis28))
  
