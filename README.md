@@ -22,4 +22,4 @@
 <p>
 
 [![GitHub paolis28](https://img.shields.io/github/followers/deepshikhayadav?label=follow&style=social&logoColor=black)]([https://github.com/paolis28](https://github.com/paolis28))
- 
+ <a href="https://github.com/paolis28"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub"></a>
