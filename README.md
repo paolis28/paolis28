@@ -56,8 +56,10 @@
 </a> &nbsp;&nbsp;
 <p>
 
-### ✨Visitors and Followers
+<p align="center">
+  <a href="https://github.com/DenverCoder1"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/paolis28?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/paolis28"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+</p>
 
 
-[![](https://visitcount.itsvg.in/api?id=paolis28&icon=0&color=0)](https://visitcount.itsvg.in)
-<a href="https://github.com/paolis28"><img src="https://img.shields.io/github/followers/paolis28?label=GitHub&style=social" alt="GitHub"></a>
+
