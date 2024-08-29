@@ -67,6 +67,9 @@
 
 [![Spotify](https://img.shields.io/badge/Now_Playing-The_Loinest_by_Makesnin-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv)
 
+<a href="https://open.spotify.com/intl-es/track/1Ame8XTX6QHY0l0ahqUhgv?si=47b237a87e584e44">
+  <img src="https://numero.jp/wp-content/uploads/2022/10/8a807f46074d42f69fc7d67475d63dda.jpg" alt="Descripción de la imagen" width="300px">
+</a>
 
 
 ---
