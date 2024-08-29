@@ -31,10 +31,10 @@
 <h2>Top Projects</h2>
 <p>
   <a href="https://github.com/paolis28/BurguerKing-223726"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=BurguerKing-223726&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="BurguerKing-223726"></a>
-  <a href="https://github.com/paolis28/Diabetes-Prediction-KNN">
-	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=Diabetes-Prediction-KNN&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Diabetes-Prediction-KNN"></a>
-  <a href="https://github.com/paolis28/BigMart-Sales-Prediction">
-	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=BigMart-Sales-Prediction&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="BigMart-Sales-Prediction">
+  <a href="https://github.com/paolis28/proyectoSGI-frontEnd">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=proyectoSGI-frontEnd&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="proyectoSGI-frontEnd"></a>
+  <a href="https://github.com/paolis28/Api-Hexagonal-Proyec">
+	  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=Api-Hexagonal-Proyec&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Api-Hexagonal-Proyec">
   </a>
   </br>
 
