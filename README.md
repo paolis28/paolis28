@@ -63,7 +63,10 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/1Ame8XTX6QHY0l0ahqUhgv?si=47b237a87e584e44)
+### Now Playing: The Loinest by Makesnin 🎧
+
+[![Spotify](https://img.shields.io/badge/Now_Playing-The_Loinest_by_Makesnin-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv)
+
 
 
 ---
