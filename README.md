@@ -79,7 +79,7 @@
   </div>
 </div>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/47b237a87e584e44)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/1Ame8XTX6QHY0l0ahqUhgv?si=e8ae6023b6f147cd)
 
 
 
