@@ -51,9 +51,9 @@
 <a href="https://www.linkedin.com/in/paola-stephania-mayorga-aguirre-3148b2323/" target="_blank">
   <img align="center" alt="Paola Mayorga | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:maviel1275@gmail.com" >
+<!-- <a href="mailto:maviel1275@gmail.com" >
   <img align="center" alt="Paola Mayorga | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
+</a> &nbsp;&nbsp; -->
 <p>
 
 <p align="center">
