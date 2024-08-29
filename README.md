@@ -1,3 +1,6 @@
+<div align=center>
+  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+</div>
 ## Hi there 👋
 
 
@@ -15,3 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
