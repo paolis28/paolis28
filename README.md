@@ -79,17 +79,7 @@
   </div>
 </div>
 
-<style>
-@keyframes move {
-  0% {
-    transform: translateX(-100%);
-  }
-  100% {
-    transform: translateX(100%);
-  }
-}
-</style>
-
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/47b237a87e584e44)
 
 
 
