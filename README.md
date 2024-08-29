@@ -65,15 +65,17 @@
 
 ### Now Playing: The Loinest by Makesnin 🎧
 
-[![Spotify](https://img.shields.io/badge/Now_Playing-The_Loinest_by_Makesnin-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv)
+<div style="display: flex; align-items: center;">
+  <a href="https://open.spotify.com/intl-es/track/1Ame8XTX6QHY0l0ahqUhgv?si=47b237a87e584e44">
+    <img src="https://numero.jp/wp-content/uploads/2022/10/8a807f46074d42f69fc7d67475d63dda.jpg" alt="The Loinest by Makesnin" width="50px" style="margin-right: 10px;">
+  </a>
+  <a href="https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv" style="text-decoration: none; color: black;">
+    The Loinest by Makesnin
+  </a>
+</div>
 
-<a href="https://open.spotify.com/intl-es/track/1Ame8XTX6QHY0l0ahqUhgv?si=47b237a87e584e44">
-  <img src="https://numero.jp/wp-content/uploads/2022/10/8a807f46074d42f69fc7d67475d63dda.jpg" alt="Descripción de la imagen" width="300px">
-</a>
 
 
 ---
-
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 
