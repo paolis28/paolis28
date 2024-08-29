@@ -69,10 +69,27 @@
   <a href="https://open.spotify.com/intl-es/track/1Ame8XTX6QHY0l0ahqUhgv?si=47b237a87e584e44">
     <img src="https://numero.jp/wp-content/uploads/2022/10/8a807f46074d42f69fc7d67475d63dda.jpg" alt="The Loinest by Makesnin" width="50px" style="margin-right: 10px;">
   </a>
-  <a href="https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv" style="text-decoration: none; color: black;">
-    The Loinest by Makesnin
-  </a>
+  <div style="color: white; display: flex; flex-direction: column; align-items: flex-start;">
+    <a href="https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv" style="text-decoration: none; color: white; font-size: 16px;">
+      The Loinest by Makesnin
+    </a>
+    <div style="position: relative; height: 5px; width: 100%; background: #444; overflow: hidden; margin-top: 5px;">
+      <div style="position: absolute; height: 100%; width: 100%; background: #1DB954; animation: move 1.5s linear infinite;"></div>
+    </div>
+  </div>
 </div>
+
+<style>
+@keyframes move {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+</style>
+
 
 
 
