@@ -73,6 +73,63 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/intl-es/track/1Ame8XTX6QHY0l0ahqUhgv?si=e8ae6023b6f147cd)
 
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/paolis28/BurguerKing-223726">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=BurguerKing-223726&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+     	<a href="https://github.com/paolis28/PaginaNext">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=PaginaNext&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/paolis28/proyectoSGI-frontEnd">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=proyectoSGI-frontEnd&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/paolis28/Freshinspect-raspberryFront">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=Freshinspect-raspberryFront&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/paolis28/Api-Hexagonal-Proyec">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=Api-Hexagonal-Proyec&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/paolis28/Consumer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=Consumer&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/paolis28/Api-Hexagonal-2-Response">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=Api-Hexagonal-2-Response&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/paolis28/webSocketServer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=webSocketServer&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/paolis28/webSocketServer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=webSocketServer&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/paolis28/websocket-proyecto-cliente">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=websocket-proyecto-cliente&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/paolis28/websocket-proyecto-servidor">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=websocket-proyecto-servidor&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/paolis28/Proyecto-GitFlo">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=websocket-proyecto-servidor&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/paolis28/CRUD">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=CRUD&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/paolis28/Api-Rest-Proyecto">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=Api-Rest-Proyecto&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/paolis28/ApiSQL-Sequelize-GYMprueba">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=ApiSQL-Sequelize-GYMprueba&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/paolis28/GymEagleUsuario">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=paolis28&repo=GymEagleUsuario&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+  </p>
+</div>
+</details>
 
 
 ---
